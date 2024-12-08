@@ -165,5 +165,21 @@ The searchlight model describes how visual attention focuses on specific areas o
 (i) Categorical visualization – Bar chart showing programming language preferences by percentage.
 (ii) Relational visualization – Scatter plot showing correlation between study hours and exam scores.
 
-Sources
-[1] 19CA682A.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/41669035/90d8eb53-d1f5-48c7-96c2-abdbba4392dd/19CA682A.pdf
+Figure 1
+![image](https://github.com/user-attachments/assets/4ba952ae-588a-47c5-a2c6-9ed47e156d10)
+
+Figure 2 
+![image](https://github.com/user-attachments/assets/d93269cb-e972-4f68-8028-78db5fb16f49)
+
+Figure 3
+Python 15%
+C/C++ 30%
+Java 20%
+PHP 5%
+JavaScript 5%
+Pascal 10%
+Fortran 10%
+Other 5%
+First programming language of conference attendees (audience survey
+
+
