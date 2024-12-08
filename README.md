@@ -41,6 +41,7 @@ e. Global birth rate by country in 2016: **Numerical (Continuous)**
 ---
 
 ### Question 2
+<img width="1470" alt="Screenshot 2024-12-08 at 10 05 21 PM" src="https://github.com/user-attachments/assets/050c72ee-2b3d-4847-973f-052f2628a147">
 
 #### (i) Give simple example metadata for describing buildings.
 1. Building name
@@ -80,6 +81,7 @@ It is useful because it enables distributed processing across multiple nodes, ma
 ---
 
 ### Question 3
+<img width="1470" alt="Screenshot 2024-12-08 at 10 07 28 PM" src="https://github.com/user-attachments/assets/cd36d7b6-1e42-4486-9b33-9c9de89ec236">
 
 #### Q3(a): Causes and consequences of poor-quality data:
 | Data Source | Cause | Consequence |
@@ -112,6 +114,7 @@ No, you cannot share patient test data due to privacy regulations like GDPR unle
 ---
 
 ### Question 4
+<img width="1470" alt="Screenshot 2024-12-08 at 10 07 48 PM" src="https://github.com/user-attachments/assets/2e905a67-2056-4c0a-8c5e-beebd42091a9">
 
 #### Q4(a): Appropriate graph types:
 A. Scatter plot – To show correlation between vitamin C intake and cold duration.  
@@ -142,6 +145,7 @@ Better alternative: Use a grouped bar chart with distinct colors per category.
 ---
 
 ### Question 5
+<img width="1470" alt="Screenshot 2024-12-08 at 10 08 16 PM" src="https://github.com/user-attachments/assets/3b610aa7-1587-4b28-b9e1-00b627a3e7b3">
 
 #### Q5(a): Sketch components for graph using Figure 3's sample data:
 - Title: "First Programming Language Preferences"
