@@ -2,6 +2,7 @@
 
 
 ### Question 1
+<img width="1470" alt="Screenshot 2024-12-08 at 10 04 40 PM" src="https://github.com/user-attachments/assets/0ae6fb00-dd2c-40e4-b125-8ce6ae4361d5">
 
 #### (i) List three (3) important questions you would ask your client.
 1. What specific insights or metrics do you want to derive from the collected data (e.g., customer behavior, sales trends)?
